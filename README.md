@@ -246,3 +246,14 @@ echo2(options: { value: string; }) => any
 | **`remove`** | <code>() =&gt; any</code> |
 
 </docgen-api>
+
+## License
+
+CallKit VoIP Capacitor is licensed under the terms of the GPL Open Source
+license and is available for free.
+
+## Links
+
+* [Web site](https://marwaabuessa.wixsite.com/callkit-voip-ionic/)
+* [LinkedIn](https://www.linkedin.com/in/marwa-abu-essa-599220a1/)
+  

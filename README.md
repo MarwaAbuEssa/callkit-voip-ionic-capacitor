@@ -1,7 +1,6 @@
 # callkit-voip-capacitor
 
-Integrate CallKit
-
+A plugin is an intermediate between your call system (RTC, VOIP) and the user, offering a native calling interface for handling cross-platform softphone app calls.
 ## Install
 
 ```bash

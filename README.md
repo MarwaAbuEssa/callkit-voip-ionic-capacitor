@@ -1,4 +1,4 @@
-# callkit-voip-capacitor
+# callkit-voip-ionic-capacitor
 
 A plugin is an intermediate between your call system (RTC, VOIP) and the user, offering a native calling interface for handling cross-platform softphone app calls.
 ## Install
